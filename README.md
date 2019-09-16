@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Lorem Ipsum
+## Website contents
 
-lorem ipsum dolor sit amet.
-
-bla bla bla
+1. index.html
